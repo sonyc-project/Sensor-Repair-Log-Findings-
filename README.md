@@ -3,7 +3,7 @@
 ## Introduction to the SONYC Sensor Network
 The SONYC (Sounds of New York City) project is a noise pollution research project run by scientists at New York University in collaboration with Ohio State University and funded by the National Science Foundation. A link to the project's website can be found [here](https://wp.nyu.edu/sonyc/).
 
-The sensors are deployed in various buildings and parks throughout New York City to monitor the noise level. These sensors contain a microphone that collects the loudness level in decibals (dB) over time. We are  able to access this information as well as more statistics about the state and performance of the sensor. This is crutial for knowing when sensors need repairing or updating of components.
+The sensors are deployed in various buildings and parks throughout New York City to monitor the noise level. These sensors contain a microphone that collects the loudness level in decibels (dB) over time. We are  able to access this information as well as more statistics about the state and performance of the sensor. This is crutial for knowing when sensors need repairing or updating of components.
 
 This is what a healthy sensor looks like. They are often placed outside of windows pointing at the street below.
 ![This](sensor_images/clean_sensor.jpeg) 
