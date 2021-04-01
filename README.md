@@ -28,6 +28,8 @@ In this sensor's case, the bird spikes (designed to keep birds from picking at t
 
 These sensors are exposed to all weather conditions. ![](sensor_images/snowy_sensor.png) 
 
+All of these conditions have their own unique effects on the performance of the sensors. They also effect how easily and quickly we are able to make repairs.
+
 ## My Report
 
 The contents of my report rely on the data collected about the state of the sensors. When an engineer goes to a location and makes a repair, we mark the repair down in a form. This wahy, we can keep track of which sensors are failing and how they are failing. This helps us both to develope a method for diagnosing sensore on site and for thinking of things that could increase the up-time of the network as a whole. 
