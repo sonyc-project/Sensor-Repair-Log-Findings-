@@ -1,5 +1,11 @@
 # SONYC Sensor Network Repair Findings
 
+# Table of Contents
+
+1. [Introduction to the SONYC Sensor Network](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#introduction-to-the-sonyc-sensor-network) 
+2. [Sensor Engineer](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sensor-engineer)
+3. [My Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#my-report)
+
 ## Introduction to the SONYC Sensor Network
 The SONYC (Sounds of New York City) project is a noise pollution research project run by scientists at New York University in collaboration with Ohio State University and funded by the National Science Foundation. A link to the project's website can be found [here](https://wp.nyu.edu/sonyc/).
 
