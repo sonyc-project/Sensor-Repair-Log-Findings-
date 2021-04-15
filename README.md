@@ -2,9 +2,15 @@
 
 # Table of Contents
 
-1. [Introduction to the SONYC Sensor Network](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#introduction-to-the-sonyc-sensor-network) 
-2. [Sensor Engineer](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sensor-engineer)
-3. [Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#report-introduction)
+*[SONYC Sensor Network Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-sensor-network-report)
+    * [Introduction to the SONYC Sensor Network](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#introduction-to-the-sonyc-sensor-network) 
+    * [Sensor Engineer](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sensor-engineer)
+    * [Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#report-introduction)
+*[SONYC Network Repair Findings](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-network-repair-findings)
+    *[The repair Form](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#the-repair-form)
+    *[Common Network Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#common-network-faults)
+    *[Power Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#power-faults)
+    *[Visit Time](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#visit-time)
 
 ## Introduction to the SONYC Sensor Network
 The SONYC (Sounds of New York City) project is a noise pollution research project run by scientists at New York University in collaboration with Ohio State University and funded by the National Science Foundation. A link to the project's website can be found [here](https://wp.nyu.edu/sonyc/).
@@ -60,7 +66,7 @@ As I was compiling all of the data on the google sheet, I recognised that there 
 
 The wording of this entry is not consistent enough with the choices on the form to even be able to group it by keyword. I decided that there should be a way to enter the data in a more detailed and machine-readable format. This is how I created my new version of the repair log. I looked through all of the previous data and found that all of the entries fit into one of 8 categories. Those include power, wifi, Internal Issues, External issues, Water Damage, Code Bug, Inaccessible, or unmounted. 
 
-## The repair form 
+## The repair Form 
 
 The new form has multiple sections. It records basic data about the sensor such as FQDN, sensor location and how long each sensor took to fix. From there, you chose what category the issue falls into. From there, the form allows you to choose the specific type of problem and insert how you fixed it. This is an example of the faults under the “power” section.
 
