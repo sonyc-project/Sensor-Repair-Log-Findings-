@@ -2,11 +2,11 @@
 
 # Table of Contents
 
-* [SONYC Sensor Network Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-sensor-network-report)
+1. [SONYC Sensor Network Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-sensor-network-report)
      - [Introduction to the SONYC Sensor Network](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#introduction-to-the-sonyc-sensor-network) 
      - [Sensor Engineer](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sensor-engineer)
      - [Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#report-introduction)
-* [SONYC Network Repair Findings](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-network-repair-findings)
+2. [SONYC Network Repair Findings](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-network-repair-findings)
      - [The repair Form](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#the-repair-form)
      - [Common Network Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#common-network-faults)
      - [Power Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#power-faults)
