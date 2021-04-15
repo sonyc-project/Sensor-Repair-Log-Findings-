@@ -1,6 +1,6 @@
 # SONYC Sensor Network Report
 
-# Table of Contents
+## Table of Contents
 
 1. [SONYC Sensor Network Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-sensor-network-report)
      - [Introduction to the SONYC Sensor Network](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#introduction-to-the-sonyc-sensor-network) 
@@ -24,7 +24,7 @@ Some sensors are even placed in busier locations.
 ![](sensor_images/37th.jpg)
  
 
-## Sensor Engineer 
+### Sensor Engineer 
 As a sensor engineer, I am responsible for building, maintaining and repairing the sensor network. This includes making visits to these sensors and repairing them on site. Often-times it is too difficult to remove the sensor from it's mounting to make a repair in the lab. 
 
 These repairs include but are not limited to electronics failures, wifi failures, power unplugged from the wall, or even updates to the physical condition of the sensors. 
@@ -42,14 +42,14 @@ These sensors are exposed to all weather conditions. ![](sensor_images/snowy_sen
 
 All of these conditions have their own unique effects on the performance of the sensors. They also effect how easily and quickly we are able to make repairs.
 
-## Report Introduction
+### Report Introduction
 
 The contents of my report rely on the data collected on the state of the sensors. When an engineer goes to a location and makes a repair, we mark the repair down in a form. This way, we can keep track of which sensors are failing and how they are failing. This helps us both to develope a method for diagnosing sensors on site and for thinking of things that could increase the up-time of the network as a whole. 
 
 I was able to analyze all of the sensor repair logs from June of 2019 through September of 2020 to see what the most common faults were throughout the network. This report describes that as well as proposed component updates. 
 
 
-# SONYC Network Repair Findings
+## SONYC Network Repair Findings
 
 
 The data comes from the original “Sensor Maintenance Log”. This log is where sensor engineers record sensor faults during each visit. Sensor FQDN, location, faults and fixes are all recorded in this form as well as how long each sensor took to fix. 
@@ -66,7 +66,7 @@ As I was compiling all of the data on the google sheet, I recognised that there 
 
 The wording of this entry is not consistent enough with the choices on the form to even be able to group it by keyword. I decided that there should be a way to enter the data in a more detailed and machine-readable format. This is how I created my new version of the repair log. I looked through all of the previous data and found that all of the entries fit into one of 8 categories. Those include power, wifi, Internal Issues, External issues, Water Damage, Code Bug, Inaccessible, or unmounted. 
 
-## The repair Form 
+### The repair Form 
 
 The new form has multiple sections. It records basic data about the sensor such as FQDN, sensor location and how long each sensor took to fix. From there, you chose what category the issue falls into. From there, the form allows you to choose the specific type of problem and insert how you fixed it. This is an example of the faults under the “power” section.
 
@@ -84,7 +84,7 @@ I manually transferred all of the entries from the old form to the updated one. 
 
 In doing all of this data transferring, I was able to make observations about the sensor network as a whole. Since each individual fault is entered separately, the most frequently recorded fault can be seen, but there is also data that shows which type of fault is typically entered first during a visit. This can be seen based on which order it is listed on the original repair log google sheet.
 
-## Common Network Faults
+### Common Network Faults
 
 ![](images/totalLogs.png)
 
@@ -99,7 +99,7 @@ This shows that the most common fault recorded is under the ‘power’ category
 
 This shows that power faults are not only the most common faults, but typically the first fault noticed during a sensor visit. 
 
-## Power Faults
+### Power Faults
 
 The most common overall fault in the sensor network is under the power category as well. The most common fault is ‘power unplugged from outlet’ (25 times recorded), followed by ‘unstable power connection from micro-USB to pi’ (22 times recorded), which is the second most common fault in the overall sensor network. This can be seen here. 
 
@@ -109,7 +109,7 @@ Because power being unplugged is the most common fault, the most common fix duri
 
 ![](images/power_fix_bars.png)
 
-## Visit Time
+### Visit Time
 
 If you look at the percent of visits that are power related (78 of the 184 recorded [42.39%]) and the number of power visits that only require a power cycle (41.7% of power visits), it can be concluded that the ability to remotely power cycle sensors would reduce sensor visits by 17.7%. Based on the recorded repair log hours, this would save roughly 263 minutes of sensor engineer time. This is calculated by taking the total time recorded (1485 minutes) and 17.7% of that. 
 
