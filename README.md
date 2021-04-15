@@ -3,14 +3,14 @@
 # Table of Contents
 
 *[SONYC Sensor Network Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-sensor-network-report)
-    * [Introduction to the SONYC Sensor Network](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#introduction-to-the-sonyc-sensor-network) 
-    * [Sensor Engineer](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sensor-engineer)
-    * [Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#report-introduction)
+    1. [Introduction to the SONYC Sensor Network](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#introduction-to-the-sonyc-sensor-network) 
+    2. [Sensor Engineer](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sensor-engineer)
+    3. [Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#report-introduction)
 *[SONYC Network Repair Findings](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-network-repair-findings)
-    *[The repair Form](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#the-repair-form)
-    *[Common Network Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#common-network-faults)
-    *[Power Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#power-faults)
-    *[Visit Time](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#visit-time)
+    1.[The repair Form](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#the-repair-form)
+    2.[Common Network Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#common-network-faults)
+    3.[Power Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#power-faults)
+    4.[Visit Time](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#visit-time)
 
 ## Introduction to the SONYC Sensor Network
 The SONYC (Sounds of New York City) project is a noise pollution research project run by scientists at New York University in collaboration with Ohio State University and funded by the National Science Foundation. A link to the project's website can be found [here](https://wp.nyu.edu/sonyc/).
