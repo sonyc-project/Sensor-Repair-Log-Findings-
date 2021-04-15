@@ -4,7 +4,7 @@
 
 1. [Introduction to the SONYC Sensor Network](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#introduction-to-the-sonyc-sensor-network) 
 2. [Sensor Engineer](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sensor-engineer)
-3. [My Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#my-report)
+3. [Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#my-report)
 
 ## Introduction to the SONYC Sensor Network
 The SONYC (Sounds of New York City) project is a noise pollution research project run by scientists at New York University in collaboration with Ohio State University and funded by the National Science Foundation. A link to the project's website can be found [here](https://wp.nyu.edu/sonyc/).
@@ -36,7 +36,7 @@ These sensors are exposed to all weather conditions. ![](sensor_images/snowy_sen
 
 All of these conditions have their own unique effects on the performance of the sensors. They also effect how easily and quickly we are able to make repairs.
 
-## My Report
+## Report Introduction
 
 The contents of my report rely on the data collected on the state of the sensors. When an engineer goes to a location and makes a repair, we mark the repair down in a form. This way, we can keep track of which sensors are failing and how they are failing. This helps us both to develope a method for diagnosing sensors on site and for thinking of things that could increase the up-time of the network as a whole. 
 
