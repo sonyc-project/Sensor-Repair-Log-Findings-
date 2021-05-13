@@ -11,6 +11,8 @@
      - [Common Network Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#common-network-faults)
      - [Power Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#power-faults)
      - [Visit Time](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#visit-time)
+3. [SONYC Network Wifi Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/sonyc_wifi_report/sonyc_wifi.ipynb)
+     
 
 ## Introduction to the SONYC Sensor Network
 The SONYC (Sounds of New York City) project is a noise pollution research project run by scientists at New York University in collaboration with Ohio State University and funded by the National Science Foundation. A link to the project's website can be found [here](https://wp.nyu.edu/sonyc/).
