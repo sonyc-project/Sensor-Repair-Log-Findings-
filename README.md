@@ -6,7 +6,7 @@
      - [Introduction to the SONYC Sensor Network](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#introduction-to-the-sonyc-sensor-network) 
      - [Sensor Engineer](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sensor-engineer)
      - [Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#report-introduction)
-2. [SONYC Network Repair Findings](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-network-repair-findings)
+2. [SONYC Network Repair Findings](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/Markdown%20Summer%20Report.ipynb)
 3. [SONYC Network Wifi Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/sonyc_wifi_report/sonyc_wifi.ipynb)
      
 
