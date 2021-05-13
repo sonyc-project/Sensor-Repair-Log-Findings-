@@ -7,10 +7,6 @@
      - [Sensor Engineer](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sensor-engineer)
      - [Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#report-introduction)
 2. [SONYC Network Repair Findings](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-network-repair-findings)
-     - [The repair Form](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#the-repair-form)
-     - [Common Network Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#common-network-faults)
-     - [Power Faults](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#power-faults)
-     - [Visit Time](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#visit-time)
 3. [SONYC Network Wifi Report](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/sonyc_wifi_report/sonyc_wifi.ipynb)
      
 
