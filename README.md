@@ -44,10 +44,13 @@ These sensors are exposed to all weather conditions. ![](sensor_images/snowy_sen
 
 All of these conditions have their own unique effects on the performance of the sensors. They also effect how easily and quickly we are able to make repairs.
 
-### Report Introduction
+### [Network Repair Findings Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/README.md#sonyc-network-repair-findings)
 
 The contents of my report rely on the data collected on the state of the sensors. When an engineer goes to a location and makes a repair, we mark the repair down in a form. This way, we can keep track of which sensors are failing and how they are failing. This helps us both to develope a method for diagnosing sensors on site and for thinking of things that could increase the up-time of the network as a whole. 
 
 I was able to analyze all of the sensor repair logs from June of 2019 through September of 2020 to see what the most common faults were throughout the network. This report describes that as well as proposed component updates. 
 
+### [Wifi Report Introduction](https://github.com/sonyc-project/Sensor-Repair-Log-Findings-/blob/main/sonyc_wifi_report/sonyc_wifi.ipynb)
+
+The wifi section of my report is a case study on 4 sensors and their average wifi signal stength. Sensors need to be connected to a wifi network at all times in order to report recorded dB data. If a sensor is not connected to a strong wifi signal, it will not update the database as frequently or, in some cases, not at all. This study shows an overall trend in wifi signal strength and proposed solutions.
 
